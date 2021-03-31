@@ -1,4 +1,4 @@
-package io.javabrains.springsecurityjdbc;
+package Q9;
 
 import javax.sql.DataSource;
 import org.springframework.beans.factory.annotation.Autowired;
