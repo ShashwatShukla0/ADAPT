@@ -1,4 +1,4 @@
-package io.javabrains.springsecurityjdbc;
+package Q9;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
