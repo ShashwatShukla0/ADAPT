@@ -1,4 +1,4 @@
-package com.capgemini.SpringSecurity;
+package Q7;
 
 import javax.sql.DataSource;
 import org.springframework.beans.factory.annotation.Autowired;
